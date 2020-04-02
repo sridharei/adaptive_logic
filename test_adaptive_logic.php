@@ -7,7 +7,7 @@ Does not contain logic for changing student levels
 Simplified Lexile array to contain only one value per Lexile
 */
 
-// Variables
+// Variables    
 $user_grade = 5;
 $Current_Item = 0;
 $Reading_Attempt_Count = 0;
